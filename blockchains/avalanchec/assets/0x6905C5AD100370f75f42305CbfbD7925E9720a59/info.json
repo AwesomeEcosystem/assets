@@ -1,0 +1,17 @@
+{
+    "name": "Staked Cunoro",
+    "symbol": "sNORO",
+    "type": "AVALANCHE",
+    "decimals": 9,
+    "description": "Staked Cunoro Token",
+    "website": "https://cunoro.finance/",
+    "explorer": "https://snowtrace.io/address/0x6905C5AD100370f75f42305CbfbD7925E9720a59",
+    "status": "active",
+    "id": "0x6905C5AD100370f75f42305CbfbD7925E9720a59",
+    "links": [
+    ],
+    "tags": [
+        "defi",
+        "bonding"
+    ]
+}
