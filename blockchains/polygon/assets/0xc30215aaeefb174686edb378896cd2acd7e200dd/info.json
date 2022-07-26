@@ -1,0 +1,17 @@
+{
+    "name": "ecosis Labs",
+    "website": "https://elabs.enterprises/",
+    "description": "ecosis Laboratories Member TOken.",
+    "explorer": "https://polygonscan.com/token/0xc30215aaeefb174686edb378896cd2acd7e200dd",
+    "type": "POLYGON",
+    "symbol": "ELABS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc30215aaeefb174686edb378896cd2acd7e200dd",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ecosisLaboratories"
+        }
+    ]
+}
